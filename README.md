@@ -43,10 +43,10 @@ A travel-planning concept focused on creating useful itineraries by considering 
 
 - **Problem:** Planning a trip means balancing destinations, time, movement, and practical constraints.
 - **Approach:** Bring planning information together to help users compare options and shape a more feasible itinerary.
-- **My contribution:** Project development and presentation as part of a team; the exact technical ownership can be expanded as the implementation evolves.
+- **My contribution:** Project development and presentation as part of a team; project details can be expanded as the implementation evolves.
 - **Explore:** [Open the prototype](https://yatra-360-ai--nikhilmo2308.replit.app)
 
-> Keep this section aligned with what is genuinely implemented. Add architecture diagrams, screenshots, APIs, and measurable results as they become available.
+*Next milestone: document the system workflow, key implementation choices, and lessons learned as the project develops.*
 
 ## Skills I'm Building
 
